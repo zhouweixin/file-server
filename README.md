@@ -4,11 +4,13 @@
 
 ## 1 创建工程file-server, 目录结构为
 
-> /file-server
-  ├── README.md
-  ├── go.mod
-  └── v1
-      └── web_v1.go
+```shell
+file-server
+├── README.md
+├── go.mod
+└── v1
+	└── web_v1.go
+```
 
 
 ## 2 开发接口`/list/*`
